@@ -1,10 +1,10 @@
+Deployed at: https://calculator-vue.onrender.com/
+
 <h1>Web-Calculator</h1>
 
 <p>Web-Calculator is a vue3 app, with a basic calculator UI.</p>
 <p>All the business "logic" is done on the server side, and the communication is done with axios/front to RESTapi/back.</p>
 <p>The main technologies used for this end to end project are: Vue3, scss, nodeJS, express, RESTapi.</p>
-
-<p>Will be deployed in the near future (and the link will be updated)</p>
 
 <p>Thank you very much for this very interesting home assignment!
 I still need to improve my order algorithm (bonus) to work perfectly on every scenario (works for basic expressions), and have a validation the confirms that the input 
